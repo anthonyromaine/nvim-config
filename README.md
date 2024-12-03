@@ -14,6 +14,7 @@
 - nvim-treesitter (v0.9.3)
 - nvim-lspconfig (v1.0.0)
 - gitsigns.nvim (v0.9.0)
+- barbar.nvim (v1.9.1)
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 

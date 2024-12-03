@@ -5,9 +5,14 @@ vim.g.loaded_netrwPlugin = 1
 -- enable 24-bit color (recommended by nvim-tree)
 vim.opt.termguicolors = true
 
+-- disable barbar auto setup
+vim.g.barbar_auto_setup = false
 
 require("nvim-web-devicons").setup()
 require("gitsigns").setup()
 require("toggleterm").setup()
 require("config.nvim-tree")
 require("config.telescope")
+require("barbar").setup({
+  auto_hide = 0
+})
