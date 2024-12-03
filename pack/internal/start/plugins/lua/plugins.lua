@@ -6,7 +6,8 @@ vim.g.loaded_netrwPlugin = 1
 vim.opt.termguicolors = true
 
 
-require("toggleterm").setup()
 require("nvim-web-devicons").setup()
+require("gitsigns").setup()
+require("toggleterm").setup()
 require("config.nvim-tree")
 require("config.telescope")

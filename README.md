@@ -13,6 +13,7 @@
 - toggleterm.nvim (v2.13.0)
 - nvim-treesitter (v0.9.3)
 - nvim-lspconfig (v1.0.0)
+- gitsigns.nvim (v0.9.0)
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 
@@ -31,4 +32,8 @@ Place selected font in `/usr/share/fonts/truetype/<fontname>`
 # fd
 
 `sudo apt-get install fd-find`
+
+# Generate all help tags/pages
+
+`:helptags ALL`
 

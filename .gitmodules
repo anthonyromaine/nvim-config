@@ -19,3 +19,6 @@
 [submodule "pack/external/start/nvim-lspconfig"]
 	path = pack/external/start/nvim-lspconfig
 	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "pack/external/start/gitsigns.nvim"]
+	path = pack/external/start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim.git
