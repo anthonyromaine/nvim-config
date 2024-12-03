@@ -7,3 +7,15 @@
 [submodule "pack/external/start/nvim-web-devicons"]
 	path = pack/external/start/nvim-web-devicons
 	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "pack/external/start/plenary.nvim"]
+	path = pack/external/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "pack/external/start/telescope.nvim"]
+	path = pack/external/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "pack/external/start/nvim-treesitter"]
+	path = pack/external/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "pack/external/start/nvim-lspconfig"]
+	path = pack/external/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
