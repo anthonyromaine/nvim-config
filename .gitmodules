@@ -1,0 +1,9 @@
+[submodule "pack/external/start/toggleterm.nvim"]
+	path = pack/external/start/toggleterm.nvim
+	url = https://github.com/akinsho/toggleterm.nvim.git
+[submodule "pack/external/start/nvim-tree.lua"]
+	path = pack/external/start/nvim-tree.lua
+	url = https://github.com/nvim-tree/nvim-tree.lua.git
+[submodule "pack/external/start/nvim-web-devicons"]
+	path = pack/external/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
