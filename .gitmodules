@@ -43,3 +43,6 @@
 [submodule "pack/external/start/nvim-colorizer"]
 	path = pack/external/start/nvim-colorizer
 	url = https://github.com/norcalli/nvim-colorizer.lua.git
+[submodule "pack/external/start/conform.nvim"]
+	path = pack/external/start/conform.nvim
+	url = https://github.com/stevearc/conform.nvim.git

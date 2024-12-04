@@ -22,4 +22,5 @@ require("config.lsp-cmp")
 require("rose-pine").setup()
 require("config.which-key")
 require("config.nvim-colorizer")
+require("config.conform")
 vim.cmd("colorscheme rose-pine");
