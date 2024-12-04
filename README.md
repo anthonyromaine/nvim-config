@@ -1,8 +1,11 @@
 # Dependencies
 
-- ripgrep (technically optional)
-- Nerd Font (technically optional)
-- fd (technically optional)
+- ripgrep 
+- Nerd Font 
+- fd 
+- tree-sitter-cli
+- rust
+- npm
 
 # Plugins
 
@@ -15,12 +18,21 @@
 - nvim-lspconfig (v1.0.0)
 - gitsigns.nvim (v0.9.0)
 - barbar.nvim (v1.9.1)
+- mason.nvim (v1.10.0)
+- nvim-cmp (v0.0.1)
+- cmp-nvim-lsp
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 
 # Install a nerd font
 
 Place selected font in `/usr/share/fonts/truetype/<fontname>`
+
+# Install tree-sitter-cli
+
+`cargo install --locked tree-sitter-cli`
+
+`npm install tree-sitter-cli`
 
 # When cloning run the following
 
