@@ -23,6 +23,7 @@
 - cmp-nvim-lsp
 - rose-pine/nvim
 - which-key (v3.14.1)
+- nvim-colorizer
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 

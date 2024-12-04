@@ -40,3 +40,6 @@
 [submodule "pack/external/start/which-key"]
 	path = pack/external/start/which-key
 	url = https://github.com/folke/which-key.nvim.git
+[submodule "pack/external/start/nvim-colorizer"]
+	path = pack/external/start/nvim-colorizer
+	url = https://github.com/norcalli/nvim-colorizer.lua.git

@@ -21,4 +21,5 @@ require("mason").setup()
 require("config.lsp-cmp")
 require("rose-pine").setup()
 require("config.which-key")
+require("config.nvim-colorizer")
 vim.cmd("colorscheme rose-pine");
