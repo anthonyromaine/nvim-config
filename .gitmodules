@@ -37,3 +37,6 @@
 [submodule "pack/external/start/rose-pine"]
 	path = pack/external/start/rose-pine
 	url = https://github.com/rose-pine/neovim.git
+[submodule "pack/external/start/which-key"]
+	path = pack/external/start/which-key
+	url = https://github.com/folke/which-key.nvim.git

@@ -16,20 +16,9 @@ require("config.telescope")
 require("barbar").setup({
   auto_hide = 0
 })
-require("nvim-treesitter.configs").setup({
-  ensure_installed = { "c", "lua", "vim", "vimdoc", "markdown", "markdown_inline", "bash", "html", "css", "comment", "diff", "dockerfile", "yaml", "javascript", "typescript", "jsdoc"},
-  auto_install = true,
-  highlight = {
-    enabled = true
-  }
-})
+require("config.nvim-treesitter")
 require("mason").setup()
 require("config.lsp-cmp")
 require("rose-pine").setup()
+require("config.which-key")
 vim.cmd("colorscheme rose-pine");
--- for _, lsp in ipairs(servers) do
---   lspconfig[lsp].setup({
---     capabilities = vim.lsp.protocol.make_client_capabilities()
---   })
--- end
-

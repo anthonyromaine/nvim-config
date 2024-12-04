@@ -22,6 +22,7 @@
 - nvim-cmp (v0.0.1)
 - cmp-nvim-lsp
 - rose-pine/nvim
+- which-key (v3.14.1)
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 
