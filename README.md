@@ -21,6 +21,7 @@
 - mason.nvim (v1.10.0)
 - nvim-cmp (v0.0.1)
 - cmp-nvim-lsp
+- rose-pine/nvim
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 

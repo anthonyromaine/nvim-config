@@ -24,7 +24,9 @@ require("nvim-treesitter.configs").setup({
   }
 })
 require("mason").setup()
-require("config.lsp-zero")
+require("config.lsp-cmp")
+require("rose-pine").setup()
+vim.cmd("colorscheme rose-pine");
 -- for _, lsp in ipairs(servers) do
 --   lspconfig[lsp].setup({
 --     capabilities = vim.lsp.protocol.make_client_capabilities()
