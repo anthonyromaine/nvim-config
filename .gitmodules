@@ -46,3 +46,6 @@
 [submodule "pack/external/start/conform.nvim"]
 	path = pack/external/start/conform.nvim
 	url = https://github.com/stevearc/conform.nvim.git
+[submodule "pack/external/start/lualine.nvim"]
+	path = pack/external/start/lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim.git
