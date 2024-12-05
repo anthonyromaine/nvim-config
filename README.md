@@ -26,6 +26,7 @@
 - which-key (v3.14.1)
 - nvim-colorizer
 - conform.nvim (v8.2.0)
+- lualine
 
 # Install neovim and add it to the path this repo was made for (v0.10.2)
 
