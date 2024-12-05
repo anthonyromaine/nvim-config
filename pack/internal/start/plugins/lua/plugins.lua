@@ -24,4 +24,5 @@ require("config.which-key")
 require("config.nvim-colorizer")
 require("config.conform")
 require("lualine").setup()
+require("todo-comments").setup()
 vim.cmd("colorscheme rose-pine");

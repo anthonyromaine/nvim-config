@@ -49,3 +49,6 @@
 [submodule "pack/external/start/lualine.nvim"]
 	path = pack/external/start/lualine.nvim
 	url = https://github.com/nvim-lualine/lualine.nvim.git
+[submodule "pack/external/start/todo-comments.nvim"]
+	path = pack/external/start/todo-comments.nvim
+	url = https://github.com/folke/todo-comments.nvim.git
